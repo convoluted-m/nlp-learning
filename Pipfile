@@ -9,6 +9,8 @@ readchar = "*"
 jupyter = "*"
 matplotlib = "*"
 nnfs = "*"
+openai = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
